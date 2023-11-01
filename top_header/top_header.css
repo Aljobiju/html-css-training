@@ -1,0 +1,111 @@
+.cover {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cover-msg {
+  position: absolute;
+  padding-left: 50px;
+  margin-top: 100px;
+}
+.cover-msg h1 {
+  font-size: 60px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+  }
+  .button :hover{
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+  }
+  .play {
+    /* background-color: #4CAF50; Green */
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: transparent;
+    vertical-align: middle;
+    /* padding: 5px 6px 5px 30px; */
+    
+  }
+  .click{
+    display: flex;
+  }
+
+  .click h3{
+    
+padding-left: 30px;
+  }
+  /* .play h5{
+    padding: 0px;
+    color: black;
+  }  */
+  .form-row1{
+    display: flex;
+  }
+  .form-row2{
+    display: flex;
+  }
+  .form{
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    /* width: 900px; */
+  }
+  
+
+  .box {
+    /* width: 100%; */
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-right: 10px;
+  }
+
+  .form-row2 select{
+    width: 259px;
+  }
+  .submt{
+    
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      /* padding: 25px; */
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 5px;
+      margin-left: 12px;
+      margin-top: 10px;
+      width: 190px;
+      
+    
+  }
+  .form h3{
+    margin-left: 10px;
+  }
