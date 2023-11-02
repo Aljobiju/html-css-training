@@ -21,6 +21,7 @@ It also comes with a form that asks you to fill in the details like:
 ## Informations Provided
 ### Departments
 <img width="906" alt="home2" src="https://github.com/Aljobiju/html-css-training/assets/64011196/0cb03669-8970-4b45-aa1a-0d30739d70b6">
+
 ### Reasons to choose
 <img width="889" alt="home3" src="https://github.com/Aljobiju/html-css-training/assets/64011196/6e700ca4-d756-405e-832f-fd3da7008780">
 
